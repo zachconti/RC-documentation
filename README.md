@@ -1,18 +1,21 @@
-# Introduction
+# Recruiting Coordination Process
 
-The United States Tax Court is an independent Federal court headquartered in Washington, D.C. The Court provides a national forum for the formal adjudication of disputes between taxpayers and the Internal Revenue Service.
+### Best practices for scheduling interviews at TTS:
 
-The Tax Court uses a case management system to manage its caseload. The current system is a legacy, non-web-based system. The Court intends to develop and deploy a new, web-based electronic filing and case management system that uses open source software.  The Court is requesting quotes for agile software development services from vendors with contracts under GSA Schedule 70, SIN 132-51.
+* Always refer to the candidate comms page in the wiki for email templates. Schedulers can and should always customize these templates as needed but the basic template/info we share should be consistent
 
-# Table of Contents
+* Make note of the time zone that each candidate is in and use that time zone when communicating with them about availability and interview times
 
-1. [Introduction](01_RFQ.md)
-2. [Statement of Work](02_SOW.md)
-3. [Evaluation Criteria](03_Evaluation_Criteria.md)
-4. [Appendix A: Description of the Tax Court](04_Appendix_A.md)
-5. [Appendix B: Case Processing Workflows](06_Appendix_B.md)
-6. [Pricing Template](Pricing_Template.xlsx)
+* Interviews should always be scheduled on the Interview Calendar so that everyone on the team has visibility and can jump in to make changes if the scheduler is out or unavailable
 
-The entire RFQ may alternatively be [downloaded as a single PDF](Entire_RFQ.pdf).
+* Interviews should be marked “private” so people cannot see candidate names on interviewers calendars
 
-[Amendment to RFQ](Amendment_to_RFQ.pdf).
+* Interview training and interview and debrief invites for 18F should always have a tock code
+
+* Candidate confirmations should be nicely formatted and consistent in typeface/font. Dates and times of interviews should be bolded. 
+
+* All interviews happening on the same day for the same candidate should use the same Meet link.
+
+* When scheduling a candidate - include the interview questions in the confirmation email you send to them (We can figure out the best way to do this, I dropped these comms at the top of the interview question PDF doc that I shared with candidates)
+
+
